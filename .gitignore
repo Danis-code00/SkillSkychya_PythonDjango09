@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.env.*
+venv/
+.venv/
+env/
+media/
+.vscode/
+.idea/
+.ipynb_checkpoints/
+myenv/
